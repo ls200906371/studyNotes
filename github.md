@@ -20,7 +20,7 @@
 		* git add <filename>
 		* git add * 
 		* git commit -m "提交信息"
-		* git push origin master
+		* git push origin master (同步到线上)
 	* 更新
 		* git pull
 
