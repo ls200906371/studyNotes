@@ -39,4 +39,4 @@
 		* git branch -D feature 删除分支
 		* git branch 查看分支
 	* 克隆
-		* git clone https://github.com/ls200906371/studyNotes.git
+		* git clone https://github.com/yourname/yourRepositoryName.git
